@@ -19,4 +19,9 @@ rgs ={
         name = "rg-preprod3"
         location = "Australia East"
     }
+
+          rg6 = {
+        name = "rg-preprod4"
+        location = "Australia East"
+    }
 }
