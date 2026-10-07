@@ -11,4 +11,21 @@ rgs ={
         name = "rg-preprod"
         location = "Australia East"
     }
+      rg4 = {
+        name = "rg-preprod2"
+        location = "Australia East"
+    }
+         rg5 = {
+        name = "rg-preprod3"
+        location = "Australia East"
+    }
+
+          rg6 = {
+        name = "rg-preprod4"
+        location = "Australia East"
+    }
+           rg7 = {
+        name = "rg-preprod5"
+        location = "Australia East"
+    }
 }
